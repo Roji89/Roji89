@@ -11,6 +11,14 @@
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roji89&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roji89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### :heart_eyes: About Me : 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France + Lyon.
@@ -37,13 +45,8 @@
   
 </div>
 
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roji89&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roji89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Roji89/Roji89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
