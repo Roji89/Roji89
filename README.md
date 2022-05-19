@@ -7,14 +7,14 @@
   <a href="https://www.linkedin.com/in/roja-ghaffari-15476096/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/roja_crt/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
 ### :heart_eyes: About Me : 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France + Lyon.
-- 	:dark_sunglasses: Working at Lim-SAS [![Linkedin Badge](https://img.shields.io/badge/-Lim_sas-red?style=flat&logoColor=white)](https://www.lim.eu/)
+- 	:dark_sunglasses: Developer Full-Stack at Lim-SAS  [![Linkedin Badge](https://img.shields.io/badge/-Lim_sas-red?style=flat&logoColor=white)](https://www.lim.eu/)
 
 ---
 
