@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
 ---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roji89&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -44,7 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   
 </div>
-
 
 
 <!--
