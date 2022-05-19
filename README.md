@@ -12,8 +12,6 @@
   </a>
 </div>
 
----
-
 
 <div align="center">
   
@@ -21,11 +19,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roji89&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-### 
-
 <div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roji89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+
 ---
 
 ### :heart_eyes: About Me : 
