@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/platzi-it-code-coding-emGDBYPZ2mVrsS1biZ" width="100"/>
+<iframe src="https://giphy.com/embed/emGDBYPZ2mVrsS1biZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/platzi-it-code-coding-emGDBYPZ2mVrsS1biZ">via GIPHY</a></p>
 </div>
 ### Hi there 👋
 
