@@ -10,9 +10,9 @@
   <a href="https://www.instagram.com/roja_crt/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <button border="2px solid blue" padding="14px 28px">
-    roja.gh89@gmail.com
-  </button>
+  <a href="https://www.instagram.com/roja_crt/">
+    <img src="https://img.shields.io/badge/roja.gh89@gmail.com-success?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 
 
