@@ -10,6 +10,9 @@
   <a href="https://www.instagram.com/roja_crt/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="">
+    roja.gh89@gmail.com
+  </a>
 </div>
 
 
@@ -24,12 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roji89&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
----
-
-### :heart_eyes: About Me : 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France + Lyon.
-- 	:dark_sunglasses: Developer Full-Stack at Lim-SAS  [![Linkedin Badge](https://img.shields.io/badge/-Lim_sas-red?style=flat&logoColor=white)](https://www.lim.eu/)
 
 ---
 
