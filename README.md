@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/roja_crt/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="">
+  <a border="solid blue">
     roja.gh89@gmail.com
   </a>
 </div>
