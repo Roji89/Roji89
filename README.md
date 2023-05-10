@@ -3,15 +3,11 @@
   <h2>Hello to beautiful shiny days 👋</h2>
   <h3>This is Roja, Welcome to my github</h3>
   <h3>I'm developer full-stack which interest in cyber-security</h3>
-  <h3>roja.gh89@gmail.com</h3>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/roja-ghaffari-15476096/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/roja_crt/">
-    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="roja.gh89@gmail.com">
     <img src="https://img.shields.io/badge/roja.gh89@gmail.com-success?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
